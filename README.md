@@ -26,6 +26,7 @@ arg: path/to/folders/to/be/converted
 ```
 Example input directory structure
 
+```
 ./dataset
 └── predictions
     ├── 0.0
@@ -44,3 +45,4 @@ Example input directory structure
     ├── .
     ├── .
     └── 1.0
+```
