@@ -14,7 +14,7 @@ make install
 Usage:
 
 ```
-UADetracConvertor arg1 arg2
+./UADetracConvertor arg1 arg2
 arg1: input filename
 arg2: output filename
 ```
